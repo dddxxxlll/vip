@@ -47,9 +47,13 @@ javascript:window.location = 'http://jx.aeidu.cn/index404.php?url='+window.locat
 easy！
 
 ## 2018年6月26日更新接口（第一个测试过能用，其他未知）
-http://jx.aeidu.cn/index404.php?url=
-http://000o.cc/jx/ty.php?url=
-http://j.zz22x.com/jx/?url=
-http://jx.vgoodapi.com/jx.php?url=
-http://jiexi.92fz.cn/player/vip.php?url=
+1. http://jx.aeidu.cn/index404.php?url=
+2. http://000o.cc/jx/ty.php?url=
+3. http://j.zz22x.com/jx/?url=
+4. http://jx.vgoodapi.com/jx.php?url=
+5. http://jiexi.92fz.cn/player/vip.php?url=
 其实接口可以去嘀哩嘀哩上找。。。
+
+## 更新在线地址
+只支持ie。chrome无法再https协议下插入http的资源，求大神赐教解决方法。。。
+网址：https://dddxxxlll.github.io/vip/
