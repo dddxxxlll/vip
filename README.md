@@ -29,7 +29,7 @@ chrome商店下载tampermonkey插件（一直在用的插件，如果没有的�
     'use strict';
 
     // Your code here...
-    window.location = 'http://p2.api.47ks.com/webcloud/?v='+window.location.href;
+    window.location = 'http://jx.aeidu.cn/index404.php?url='+window.location.href;
 })();
 ```
 刷新所要看的网页
@@ -40,8 +40,16 @@ easy！
 打开任意网页，ctrl+D保存为书签
 修改该书签地址为以下代码：
 ```
-javascript:window.location = 'http://p2.api.47ks.com/webcloud/?v='+window.location.href
+javascript:window.location = 'http://jx.aeidu.cn/index404.php?url='+window.location.href
 ```
 然后打开任意你想看的视频页面
 点击该书签，完工！
 easy！
+
+## 2018年6月26日更新接口（第一个测试过能用，其他未知）
+http://jx.aeidu.cn/index404.php?url=
+http://000o.cc/jx/ty.php?url=
+http://j.zz22x.com/jx/?url=
+http://jx.vgoodapi.com/jx.php?url=
+http://jiexi.92fz.cn/player/vip.php?url=
+其实接口可以去嘀哩嘀哩上找。。。
